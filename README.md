@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at Cracow University of Technology  
 💻 Member of Genesys student research group  
-🎮 Game developer skilled in Godot, currently learning Unreal Engine  
+🎮 Game developer skilled in Godot, currently learning Unity
 🤖 Enthusiast of Machine Learning and Web Development
 
 ---
