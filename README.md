@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Game Development:** Godot, Unreal Engine (learning)
+- **Game Development:** Unity(curerntly learning -> main),Godot(mastered),
 - **Programming Languages:** Python, C#, JavaScript
 - **Web Development:** HTML, CSS, JS, React (learning)
 - **Machine Learning:** Python, PyTorch, TensorFlow (learning)
