@@ -1,4 +1,7 @@
+<div align="center">
 <img src="profile_anim.gif" width="400" />
+</div>
+<div align="center">
 <h1> Hi, I'm Bartek 👋</h1>
 
 🎓 Computer Science student at Cracow University of Technology  
@@ -9,7 +12,7 @@
 ---
 
 ###
-
+<div align="center">
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
