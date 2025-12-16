@@ -1,3 +1,4 @@
+![Anim](profile_anim.gif)
 # Hi, I'm Bartek 👋
 
 🎓 Computer Science student at Cracow University of Technology  
