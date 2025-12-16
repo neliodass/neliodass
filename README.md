@@ -1,4 +1,4 @@
-![Anim](profile_anim.gif)
+<img src="profile_anim.gif" width="400" />
 # Hi, I'm Bartek 👋
 
 🎓 Computer Science student at Cracow University of Technology  
