@@ -1,5 +1,5 @@
 <img src="profile_anim.gif" width="400" />
-# Hi, I'm Bartek 👋
+<h1> Hi, I'm Bartek 👋</h1>
 
 🎓 Computer Science student at Cracow University of Technology  
 💻 Member of Genesys student research group  
