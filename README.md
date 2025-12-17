@@ -9,7 +9,7 @@
 🎮 Game developer skilled in Godot, currently learning Unity  
 🤖 Enthusiast of Machine Learning and Web Development
 
-###
+
 
 ###
 <div align="center">
@@ -71,7 +71,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neliodass/neliodass/output/pacman-contribution-graph-dark.svg">
