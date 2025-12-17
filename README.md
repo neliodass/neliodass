@@ -9,7 +9,7 @@
 🎮 Game developer skilled in Godot, currently learning Unity  
 🤖 Enthusiast of Machine Learning and Web Development
 
----
+###
 
 ###
 <div align="center">
@@ -71,6 +71,14 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neliodass/neliodass/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neliodass/neliodass/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neliodass/neliodass/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 [LinkedIn](https://www.linkedin.com/in/bartek-pier%C3%B3g-5b0850369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
