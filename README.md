@@ -71,7 +71,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -80,12 +79,3 @@
 <a href="https://www.leetcode.com/neliodas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neliodas" height="30" width="40" /></a>
 </p>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neliodass/neliodass/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neliodass/neliodass/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neliodass/neliodass/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
